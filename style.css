@@ -33,5 +33,9 @@
 #Log {background-color:darkmagenta;}
 
 h1 {
-  font-family: "Dotumn", Arial;
+  margin-left: 1.5in;
+font-size: 80px;
+}
+body{
+  font-family: "Dotum", Arial;
 }
