@@ -23,19 +23,33 @@
     padding: 50px;
     text-align: center;
 }
+#ori {
+  float: right;
+}
 
 /* Style each tab content individually */
 #Cyber {background-color:crimson;}
 #Support {background-color:orangered;}
-#Connect {background-color:gold;}
+#Connect {background-color:orange;}
 #Pup {background-color:springgreen;}
 #Donate {background-color:turquoise;}
 #Log {background-color:darkmagenta;}
 
 h1 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
   margin-left: 1.5in;
 font-size: 80px;
 }
-body{
-  font-family: "Dotum", Arial;
+button {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+body {
+  background-color: pink;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+p {
+  font-size: 30px;
+}
+div {
+  font-size: 30px;
 }
