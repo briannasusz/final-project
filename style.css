@@ -1,0 +1,62 @@
+/* Style the tab buttons */
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 16.6%;
+}
+
+/* Change background color of buttons on hover */
+.tablink:hover {
+    background-color: #777;
+}
+
+/* Set default styles for tab content */
+.tabcontent {
+    color: white;
+    display: none;
+    padding: 50px;
+    text-align: center;
+}
+#ori {
+  float: right;
+}
+
+/* Style each tab content individually */
+#Cyber {background-color:crimson;}
+#Support {background-color:orangered;}
+#Connect {background-color:orange;}
+#Pup {background-color:springgreen;}
+#Donate {background-color:turquoise;}
+#Log {background-color:darkmagenta;}
+
+h1 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  margin-left: 1.5in;
+font-size: 100px;
+}
+button {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+}
+body {
+  background-color: pink;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+p {
+  font-size: 30px;
+}
+div {
+  font-size: 30px;
+}
+a {
+  font-size: 30px;
+}
+h2 {
+  font-size: 45px;
+}
