@@ -38,10 +38,11 @@
 h1 {
   font-family: "Comic Sans MS", cursive, sans-serif;
   margin-left: 1.5in;
-font-size: 80px;
+font-size: 100px;
 }
 button {
   font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
 }
 body {
   background-color: pink;
@@ -52,4 +53,10 @@ p {
 }
 div {
   font-size: 30px;
+}
+a {
+  font-size: 30px;
+}
+h2 {
+  font-size: 45px;
 }
